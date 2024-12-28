@@ -13,6 +13,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - LinkedIn: [Nilay Sarma](https://www.linkedin.com/in/nilay-sarma)
 - X/Twitter: [@nilaysarma_](https://twitter.com/nilaysarma_)
-- Personal Website: [nilaysarma.github.io](https://nilaysarma.github.io)
+- Personal/Portfolio Website: [nilaysarma.github.io](https://nilaysarma.github.io)
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect! 😊
