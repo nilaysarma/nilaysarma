@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Nilay Sarma! 👋
 
-<!--
-**nilaysarma/nilaysarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Data Science, Artificial Intelligence, Game Development and open-source contributions. I love exploring new technologies and applying them to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently learning **Data Science & AI**.
+- 🌱 I’m currently a student at **IIT Guwahati**.
+- 👯 I’m looking to collaborate on **AI, ML, Python**.
+- 💬 Ask me about **Artificial Intelligence**, **Python**, **Machine Learning & Game Development**.
+
+## 📫 Connect with Me
+
+- LinkedIn: [Nilay Sarma](https://www.linkedin.com/in/nilay-sarma)
+- X/Twitter: [@nilaysarma_](https://twitter.com/nilaysarma_)
+- Personal Website: [nilaysarma.github.io](https://nilaysarma.github.io)
+
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect! 😊
