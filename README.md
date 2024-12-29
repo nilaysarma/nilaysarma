@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🚀 About Me
 
 - 💻 I’m currently learning **Data Science & AI**.
-- 🌱 I’m currently a student at **IIT Guwahati**.
-- 👯 I’m looking to collaborate on **AI, ML, Python**.
+- 🎓 I’m currently a student at **IIT Guwahati**.
+- 🤝 I’m looking to collaborate on **AI, ML, Python**.
 - 💬 Ask me about **Artificial Intelligence**, **Python**, **Machine Learning & Game Development**.
 
 ## 📫 Connect with Me
