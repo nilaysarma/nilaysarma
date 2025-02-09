@@ -15,4 +15,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - X/Twitter: [@nilaysarma_](https://twitter.com/nilaysarma_)
 - Personal/Portfolio Website: [nilaysarma.github.io](https://nilaysarma.github.io)
 
+## 📊 GitHub Stats:
+![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilaysarma&show_icons=true&theme=radical&show=prs_merged&hide_rank=true&hide=stars)
+
+## 📈 Activity Graph
+![Nilay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nilaysarma&theme=react-dark&days=60)
+
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect! 😊
