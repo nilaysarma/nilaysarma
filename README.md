@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📊 GitHub Stats:
 ![Nilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilaysarma&show_icons=true&theme=radical&show=prs_merged&hide_rank=true&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilaysarma&layout=compact&theme=radical&exclude_repo=HyperMaze,SmashBall,FlattyBird)
 
 ## 📈 Activity Graph
 ![Nilay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nilaysarma&theme=react-dark&days=60)
